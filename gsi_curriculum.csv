@@ -1,0 +1,15 @@
+type,code,title,coef,credit,hours_lecture,hours_td,hours_tp,teaching_mode,continous_percent,exam_percent
+module,F111,Réseaux des couches basses,3,6,1.5,1.5,1.5,In-person,40,60
+module,F112,Algorithmique Avancée et Complexité,2,4,1.5,1.5,0,In-person,40,60
+module,F121,Système d'exploitation,2,4,1.5,1.5,0,In-person,40,60
+module,F122,Architectures Modernes des Systèmes Informatiques,2,4,1.5,1.5,0,In-person,40,60
+module,M111,Architecture et administration des bases de données,2,4,1.5,1.5,0,In-person,40,60
+module,M112,Méthodes et Technologies d'Implémentation,3,5,1.5,0,1.5,In-person,40,60
+module,D111,Systèmes de Communication Vocaux et Vidéos,2,2,1.5,1.5,0,In-person,40,60
+module,T111,Cloud Computing,1,1,1.5,0,0,In-person,100,0
+unit,UEF11,UE Fondamentales 1,0,0,0,0,0,In-person,0,0
+unit,UEF12,UE Fondamentales 2,0,0,0,0,0,In-person,0,0
+unit,UEM11,UE Méthodologie,0,0,0,0,0,In-person,0,0
+unit,UED11,UE Découverte,0,0,0,0,0,In-person,0,0
+unit,UET11,UE Transversale,0,0,0,0,0,In-person,0,0
+semester,S1,Semester 1,0,0,0,0,0,In-person,0,0
